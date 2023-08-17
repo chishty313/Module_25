@@ -2,6 +2,7 @@
 // <button onclick="console.log(65)">Another button</button>
 
 // Option 2: add onclick function on the HTML element
+// Important: We will use this sometimes
 // <button onclick="makeRed()">Make Red</button>
 function makeRed() {
     document.body.style.backgroundColor = "red";
